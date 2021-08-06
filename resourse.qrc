@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/TransformationPic.png</file>
+    </qresource>
+</RCC>
